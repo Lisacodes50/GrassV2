@@ -62,7 +62,10 @@ pip install -r requirements.txt
 5. Dont Forget to add your proxies in the proxy.txt file you can add 10000+ proxy !! Format # `socks5://username:pass@ip:port`.
 6. You can get Multiple Proxies from Proxies.fo Website. `1 IP == ~3000 $Grass per Day `.
 7. To Run Script `python3 main.py` 
-8. To Run multiple User ID just add multiple userids in the `config.json` file. 
+8. To Run multiple User ID just add multiple userids in the `config.json` file.
+9. ```sh
+   nano config.js
+   ```
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = $90 ~ As per Past trends and Old Stage 1 USERS.
 ---
