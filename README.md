@@ -64,7 +64,7 @@ pip install -r requirements.txt
 7. To Run Script `python3 main.py` 
 8. To Run multiple User ID just add multiple userids in the `config.json` file.
 9. ```sh
-   nano config.js
+   nano config.json
    ```
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = $90 ~ As per Past trends and Old Stage 1 USERS.
