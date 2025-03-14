@@ -66,3 +66,8 @@ pip install -r requirements.txt
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = $90 ~ As per Past trends and Old Stage 1 USERS.
 ---
+Run The bot 
+```sh
+python main.py
+```
+## Enjoy the script 
